@@ -12,16 +12,10 @@
 - 📫 How to reach me ...
 
 
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
+<!--START_SECTION:waka-->
+```text
+```
+<!--END_SECTION:waka-->
 
 
 <!-- snake section -->
