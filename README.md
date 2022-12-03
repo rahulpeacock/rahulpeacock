@@ -2,9 +2,9 @@
 
 ![intro-img](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/intro-github.png)
 
-![animated-gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/laptop-animated-gif.gif)
+![animated-gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/laptop-animation.gif)
 
-## About Me
+# About Me
 
 -   👀 I’m currently working on **Something Cool!** 😜
 -   🌱 I’m currently learning **DSA using Java**
@@ -14,7 +14,7 @@
 
 <!-- language section -->
 
-### Languages 🚀
+# Languages 🚀
 
 <code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/html.png" alt="html-img" ></code>
 <code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/css.png" alt="css-img" ></code>
@@ -25,7 +25,7 @@
 <code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/express.png" alt="express-img" ></code>
 <code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/mongodb.png" alt="mongodb-img" ></code>
 
-### Tools ❤️
+# Tools ❤️
 
 <code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/vscode.png" alt="vscode-img" ></code>
 <code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/figma.png" alt="figma-img" ></code>
