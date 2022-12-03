@@ -1,6 +1,6 @@
 <!-- Intro-section -->
 ![intro-img](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/intro-github.png)
-<p><p/>
+-
 ![animated-gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/laptop-animated-gif.gif)
 
 
