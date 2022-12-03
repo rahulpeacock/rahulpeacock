@@ -14,13 +14,10 @@
 
 <!-- language section -->
 ### Languages
-<code><img height="30" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/html-img.png"></code>
- 
- 
-<code><img height="30" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/css-img.png"></code>
-<code><img height="30" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/js-img.png"></code>
- 
-<code><img height="30" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/React-icon.svg.png"></code>
+<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/html-img.png"></code>
+<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/css-img.png"></code>
+<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/js-img.png"></code>
+<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/React-icon.svg.png"></code>
 
 
 
