@@ -1,3 +1,6 @@
+![intro-img](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/intro-github.png)
+
+
 - 👋 Hi, I’m Rahul-Palamarthi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
