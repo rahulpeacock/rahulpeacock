@@ -12,6 +12,10 @@
 - 📫 How to reach me ...
 
 
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
+
+
 <!-- snake section -->
 ### Watch my Contribution Graph get eaten by the Snake 🐍.
 ![snake gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/output/github-contribution-grid-snake.svg)
