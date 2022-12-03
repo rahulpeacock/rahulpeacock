@@ -12,8 +12,8 @@
 - 📫 How to reach me ...
 
 
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
+<!--START_CONTRIBUTIONS:readme-info-->
+<!--END_CONTRIBUTIONS:readme-info-->
 
 
 <!-- snake section -->
