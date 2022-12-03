@@ -29,6 +29,8 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 <code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/express.png" alt="express-img" ></code>
 <code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/mongodb.png" alt="mongodb-img" ></code>
 
+<code>[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)</code>
+
 # Tools
 
 <code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/vscode.png" alt="vscode-img" ></code>
