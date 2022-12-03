@@ -6,13 +6,13 @@
 
 # About Me
 
-Hi, I'm a student, learner, self-taught developer.I wrote my first line of code at the end of _2k21_ and the journey contains Highs and lows. **Google** and **Youtube** are my best friends and once again Believe in Yourself 🔥
+Hi, I'm a student, learner, and self-taught developer. I wrote my first line of code at the end of **2k21** and the journey is wonderful. **Google** and **Youtube** are my best friends and once again Believe in Yourself 🔥
 
 -   ❄️ I’m currently working on **Something Cool!** 😜
 -   🌱 I’m currently learning **DSA using Java**
 -   👻 Ask Me about **CSS, JavaScript and React.js**
 -   :octocat: I’m looking to collaborate on **Opensource Projects**
--   📫 How to reach me _[@Rahul-Palamarthi](#say-hi)_
+-   📫 How to reach me _[@Rahul-Palamarthi](#say-hi-)_
 -   🔥 Believe in YourSelf
 -   ⚡ Fun fact: **Java** and **JavaScript** are not Same 😉
 
@@ -20,22 +20,22 @@ Hi, I'm a student, learner, self-taught developer.I wrote my first line of code 
 
 # Languages
 
-<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/html.png" alt="html-img" ></code>
-<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/css.png" alt="css-img" ></code>
-<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/sass.png" alt="sass-img" ></code>
-<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/js.png" alt="js-img" ></code>
-<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/react.png" alt="react-img" ></code>
-<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/node.png" alt="node-img" ></code>
-<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/express.png" alt="express-img" ></code>
-<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/mongodb.png" alt="mongodb-img" ></code>
+<code><img height="37" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="html-img" ></code>
+<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/css.png" alt="css-img" ></code>
+<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/sass.png" alt="sass-img" ></code>
+<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/js.png" alt="js-img" ></code>
+<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/react.png" alt="react-img" ></code>
+<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/node.png" alt="node-img" ></code>
+<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/express.png" alt="express-img" ></code>
+<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/mongodb.png" alt="mongodb-img" ></code>
 
 # Tools
 
-<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/vscode.png" alt="vscode-img" ></code>
-<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/thunderclient.png" alt="thunderclient-img" ></code>
-<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/figma.png" alt="figma-img" ></code>
-<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/git.png" alt="git-img" ></code>
-<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/github.png" alt="github-img" ></code>
+<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/vscode.png" alt="vscode-img" ></code>
+<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/thunderclient.png" alt="thunderclient-img" ></code>
+<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/figma.png" alt="figma-img" ></code>
+<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/git.png" alt="git-img" ></code>
+<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/github.png" alt="github-img" ></code>
 
 <!--START_SECTION:waka-->
 
