@@ -9,8 +9,11 @@
 - 👀 I’m currently working on **Something Cool!** 😜
 - 🌱 I’m currently learning **DSA using Java**
 - 💞️ I’m looking to collaborate on **Opensource**
-- 📫 How to reach me [@Rahul-Palamarthi](#-say-hi)
+- 📫 How to reach me [@Rahul-Palamarthi](#say-hi)
 - 🔥 Believe in YourSelf
+
+<!-- language section -->
+
 
 
 <!--START_SECTION:waka-->
@@ -22,6 +25,7 @@
  Last Updated on 03/12/2022 08:15:13 UTC
 <!--END_SECTION:waka-->
 
+<!-- social section -->
 ### Say Hi 
 
 
@@ -29,6 +33,10 @@
 <!-- snake section -->
 ### Watch my Contribution Graph get eaten by the Snake 🐍
 ![snake gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/output/github-contribution-grid-snake.svg)
+
+<a href="https://moon-svg.minung.dev">
+  <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+</a>
 
 <!---
 Rahul-Palamarthi/Rahul-Palamarthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
