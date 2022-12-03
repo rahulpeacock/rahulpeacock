@@ -1,4 +1,4 @@
-<!-- Intro-section -->
+<!-- Intro section -->
 ![intro-img](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/intro-github.png)
 
 
@@ -12,6 +12,8 @@
 - 📫 How to reach me ...
 
 
+<!-- snake section -->
+### Watch my Contribution Graph get eaten by the Snake 🐍.
 ![snake gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/output/github-contribution-grid-snake.svg)
 
 <!---
