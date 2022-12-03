@@ -5,12 +5,12 @@
 ![animated-gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/laptop-animated-gif.gif)
 
 
-## About Me
-👀 I’m currently working on **Something Cool!**
-🌱 I’m currently learning **DSA using Java**
-💞️ I’m looking to collaborate on **Opensource**
-📫 How to reach me ...
-🔥 Believe in YourSelf
+## About Me 🧑‍💻
+- 👀 I’m currently working on **Something Cool!** 😜
+- 🌱 I’m currently learning **DSA using Java**
+- 💞️ I’m looking to collaborate on **Opensource**
+- 📫 How to reach me [@Rahul-Palamarthi](###-say-hi)
+- 🔥 Believe in YourSelf
 
 
 <!--START_SECTION:waka-->
@@ -21,6 +21,9 @@
 
  Last Updated on 03/12/2022 08:15:13 UTC
 <!--END_SECTION:waka-->
+
+### Say Hi 
+
 
 
 <!-- snake section -->
