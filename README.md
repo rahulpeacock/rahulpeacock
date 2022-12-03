@@ -13,6 +13,8 @@
 - 🔥 Believe in YourSelf
 
 <!-- language section -->
+### Languages
+<code><img height="30" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/html-img.png" alt="html-img" /><code>
 
 
 
