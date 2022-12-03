@@ -9,7 +9,7 @@
 - 👀 I’m currently working on **Something Cool!** 😜
 - 🌱 I’m currently learning **DSA using Java**
 - 💞️ I’m looking to collaborate on **Opensource**
-- 📫 How to reach me [@Rahul-Palamarthi](###-say-hi)
+- 📫 How to reach me [@Rahul-Palamarthi](#-say-hi)
 - 🔥 Believe in YourSelf
 
 
@@ -27,7 +27,7 @@
 
 
 <!-- snake section -->
-### Watch my Contribution Graph get eaten by the Snake 🐍.
+### Watch my Contribution Graph get eaten by the Snake 🐍
 ![snake gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/output/github-contribution-grid-snake.svg)
 
 <!---
