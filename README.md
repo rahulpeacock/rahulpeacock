@@ -1,20 +1,24 @@
 <!-- Intro section -->
 
-![intro-img](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/intro-github.png)
+![animated-gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/intro-animation.gif)
 
-![animated-gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/laptop-animation.gif)
+![intro-img](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/intro-github.png)
 
 # About Me
 
--   👀 I’m currently working on **Something Cool!** 😜
+Hi, I'm a student, learner, self-taught developer.I wrote my first line of code at the end of _2k21_ and the journey contains Highs and lows. **Google** and **Youtube** are my best friends and once again Believe in Yourself 🔥
+
+-   ❄️ I’m currently working on **Something Cool!** 😜
 -   🌱 I’m currently learning **DSA using Java**
--   💞️ I’m looking to collaborate on **Opensource**
--   📫 How to reach me [@Rahul-Palamarthi](#say-hi)
+-   👻 Ask Me about **CSS, JavaScript and React.js**
+-   :octocat: I’m looking to collaborate on **Opensource Projects**
+-   📫 How to reach me _[@Rahul-Palamarthi](#say-hi)_
 -   🔥 Believe in YourSelf
+-   ⚡ Fun fact: **Java** and **JavaScript** are not Same 😉
 
 <!-- language section -->
 
-# Languages 🚀
+# Languages
 
 <code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/html.png" alt="html-img" ></code>
 <code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/css.png" alt="css-img" ></code>
@@ -25,10 +29,13 @@
 <code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/express.png" alt="express-img" ></code>
 <code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/mongodb.png" alt="mongodb-img" ></code>
 
-# Tools ❤️
+# Tools
 
 <code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/vscode.png" alt="vscode-img" ></code>
+<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/thunderclient.png" alt="thunderclient-img" ></code>
 <code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/figma.png" alt="figma-img" ></code>
+<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/git.png" alt="git-img" ></code>
+<code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/github.png" alt="github-img" ></code>
 
 <!--START_SECTION:waka-->
 
@@ -42,16 +49,16 @@ Last Updated on 03/12/2022 08:15:13 UTC
 
 <!-- social section -->
 
-### Say Hi
+# Say Hi 👋
 
 <!-- snake section -->
 
-### Watch my Contribution Graph get eaten by the Snake 🐍
+# Watch my Contribution Graph get eaten by the Snake 🐍
 
 ![snake gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Moon section -->
 
-### Good Night Devs 🥱🥱
+# Good Night Devs 🥱🥱
 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=340)](https://moon-svg.minung.dev)
