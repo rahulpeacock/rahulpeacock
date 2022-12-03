@@ -13,8 +13,12 @@
 
 
 <!--START_SECTION:waka-->
-```text
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138%20Thousand%20lines%20of%20code-blue)
+
+
+ Last Updated on 03/12/2022 08:15:13 UTC
 <!--END_SECTION:waka-->
 
 
