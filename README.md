@@ -18,6 +18,7 @@
 <code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/css-img.png"></code>
 <code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/js-img.png"></code>
 <code><img height="35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/React-icon.svg.png"></code>
+<code><img height-"35" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/640px-Node.js_logo.svg.png" ></code>
 
 
 
