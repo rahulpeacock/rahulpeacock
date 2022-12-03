@@ -1,6 +1,6 @@
 <!-- Intro-section -->
 ![intro-img](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/intro-github.png)
-1[animated-gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/laptop-animated-gif.gif)
+![animated-gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/laptop-animated-gif.gif)
 
 
 - 👋 Hi, I’m Rahul-Palamarthi
