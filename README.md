@@ -6,7 +6,7 @@
 
 # About Me
 
-Hi, I'm a student, learner, and self-taught developer. I wrote my first line of code at the end of **2k21** and the journey is wonderful. **Google** and **Youtube** are my best friends and once again Believe in Yourself 🔥
+Hi, I'm a student, learner, and self-taught developer. I wrote my first line of code at the end of **2k21** and the journey is wonderful. **Google** and **Youtube** are my best friends and once again Believe in Yourself 🔥 <br>
 ![discord-active-status](https://dcbadge.vercel.app/api/shield/733645557989376011)
 
 -   ❄️ I’m currently working on **Something Cool!** 😜
@@ -21,24 +21,25 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 
 # Languages
 
-<code><img height="37" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="html-img" ></code>
-<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/css.png" alt="css-img" ></code>
-<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/sass.png" alt="sass-img" ></code>
-<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/js.png" alt="js-img" ></code>
-<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/react.png" alt="react-img" ></code>
-<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/node.png" alt="node-img" ></code>
-<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/express.png" alt="express-img" ></code>
-<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/mongodb.png" alt="mongodb-img" ></code>
-
-<code>[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)</code>
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/html.svg" alt="html-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/css.svg" alt="css-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/sass.svg" alt="sass-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/js.svg" alt="js-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/react.svg" alt="react-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/node.svg" alt="node-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/express.svg" alt="express-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/mongodb.svg" alt="mongodb-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/npm.svg" alt="npm-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/markdown.svg" alt="markdown-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/matlab.svg" alt="matlab-img"/></span>&nbsp;&nbsp;
 
 # Tools
 
-<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/vscode.svg" /></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/thunderclient.svg" /></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/git.svg" /></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/github.svg" /></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/figma.svg" /></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/vscode.svg" alt="vscode-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/thunderclient.svg" alt="thunderclient-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/git.svg" alt="git-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/github.svg" alt="github-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/figma.svg" alt="figma-img"/></span>&nbsp;&nbsp;
 
 <!--START_SECTION:waka-->
 
@@ -48,16 +49,16 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 
 Last Updated on 03/12/2022 08:15:13 UTC
 
-<!--END_SECTION:waka-->social/
+<!--END_SECTION:waka-->
 
-svg social section -->
+<!-- social section -->
 
 # Say Hi 👋
 
-[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/discord.svg" >](https://discord.com/users/733645557989376011 "discord")&nbsp;&nbsp;
-[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/chrome.svg" />](https://rahul-palamarthi.github.io/Web-Portfolio/ "portfolio")&nbsp;&nbsp;
-[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/gmail.svg" />](mailto:rhulpalamarthi@gmail.com "gmail")&nbsp;&nbsp;
-[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/github.svg" />](https://github.com/Rahul-Palamarthi "github")&nbsp;&nbsp;
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/discord.svg" alt="discord-img"/>](https://discord.com/users/733645557989376011 "discord")&nbsp;&nbsp;
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/chrome.svg" alt="chrome-img"/>](https://rahul-palamarthi.github.io/Web-Portfolio/ "portfolio")&nbsp;&nbsp;
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/gmail.svg" alt="gmail-img"/>](mailto:rhulpalamarthi@gmail.com "gmail")&nbsp;&nbsp;
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/github.svg" alt="github-img"/>](https://github.com/Rahul-Palamarthi "github")&nbsp;&nbsp;
 
 <!-- snake section -->
 
@@ -69,4 +70,4 @@ svg social section -->
 
 # Good Night Devs 🥱🥱
 
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=340)](https://moon-svg.minung.dev)
+![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=340 "current status of moon")
