@@ -1,12 +1,13 @@
 <!-- Intro section -->
 
-![animated-gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/intro-animation.gif)
+![animated-gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/coding-animation.gif)
 
-![intro-img](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/intro-github.png)
+![intro-img](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/header.png)
 
 # About Me
 
 Hi, I'm a student, learner, and self-taught developer. I wrote my first line of code at the end of **2k21** and the journey is wonderful. **Google** and **Youtube** are my best friends and once again Believe in Yourself 🔥 <br>
+
 ![discord-active-status](https://dcbadge.vercel.app/api/shield/733645557989376011)
 
 -   ❄️ I’m currently working on **Something Cool!** 😜
@@ -15,7 +16,7 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 -   :octocat: I’m looking to collaborate on **Opensource Projects**
 -   📫 How to reach me _[@Rahul-Palamarthi](#say-hi-)_
 -   🔥 Believe in YourSelf
--   ⚡ Fun fact: **Java** and **JavaScript** are not Same 😉
+-   ⚡ Fun fact: **Java** and **JavaScript** are unique in their ownway 😉
 
 <!-- language section -->
 
@@ -47,9 +48,21 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138%20Thousand%20lines%20of%20code-blue)
 
+**I'm an Early 🐤**
+
+```text
+
+```
+
 Last Updated on 03/12/2022 08:15:13 UTC
 
 <!--END_SECTION:waka-->
+
+<!-- snake section -->
+
+# Watch my Contribution Graph get eaten by the Snake 🐍
+
+![snake gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/output/github-contribution-grid-snake.svg)
 
 <!-- social section -->
 
@@ -59,12 +72,6 @@ Last Updated on 03/12/2022 08:15:13 UTC
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/chrome.svg" alt="chrome-img"/>](https://rahul-palamarthi.github.io/Web-Portfolio/ "portfolio")&nbsp;&nbsp;
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/gmail.svg" alt="gmail-img"/>](mailto:rhulpalamarthi@gmail.com "gmail")&nbsp;&nbsp;
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/github.svg" alt="github-img"/>](https://github.com/Rahul-Palamarthi "github")&nbsp;&nbsp;
-
-<!-- snake section -->
-
-# Watch my Contribution Graph get eaten by the Snake 🐍
-
-![snake gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Moon section -->
 
