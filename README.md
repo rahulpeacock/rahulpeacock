@@ -58,6 +58,12 @@ Last Updated on 03/12/2022 08:15:13 UTC
 
 <!--END_SECTION:waka-->
 
+<!-- stats -->
+
+![github-stats](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/stats/generated/overview.svg "github stats")
+
+![most-languages-used](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/stats/generated/languages.svg "most languages used")
+
 <!-- snake section -->
 
 # Watch my Contribution Graph get eaten by the Snake 🐍
