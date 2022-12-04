@@ -34,7 +34,7 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/markdown.svg" alt="markdown-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/matlab.svg" alt="matlab-img"/></span>&nbsp;&nbsp;
 
-# Tools
+# Tools 🔧
 
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/vscode.svg" alt="vscode-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/thunderclient.svg" alt="thunderclient-img"/></span>&nbsp;&nbsp;
@@ -43,39 +43,41 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/figma.svg" alt="figma-img"/></span>&nbsp;&nbsp;
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    45 commits     ██████████░░░░░░░░░░░░░░░   41.28% 
-🌆 Daytime    37 commits     ████████░░░░░░░░░░░░░░░░░   33.94% 
-🌃 Evening    26 commits     ██████░░░░░░░░░░░░░░░░░░░   23.85% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 2 hrs 11 mins       ████████████████████████░   97.92% 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
-
-```
-
-
- Last Updated on 04/12/2022 08:23:23 UTC
-<!--END_SECTION:waka-->
-
-<!-- stats -->
+# Stats 📈
 
 ![github-stats](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/stats/generated/overview.svg "github stats")
 
 ![most-languages-used](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/stats/generated/languages.svg "most languages used")
+
+**I'm an Early 🐤**
+
+```text
+🌞 Morning    45 commits     ██████████░░░░░░░░░░░░░░░   41.28%
+🌆 Daytime    37 commits     ████████░░░░░░░░░░░░░░░░░   33.94%
+🌃 Evening    26 commits     ██████░░░░░░░░░░░░░░░░░░░   23.85%
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
+
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+💬 Programming Languages:
+Markdown                 2 hrs 11 mins       ████████████████████████░   97.92%
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
+
+```
+
+Last Updated on 04/12/2022 08:23:23 UTC
+
+<!--END_SECTION:waka-->
+
+<!-- stats -->
 
 <!-- snake section -->
 
