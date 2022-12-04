@@ -54,7 +54,9 @@ Last Updated on 03/12/2022 08:15:13 UTC
 
 # Say Hi 👋
 
-[![discord](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/discord.svg)](https://discord.com/users/733645557989376011 "discord")
+<code>
+[![discord](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/discord.svg)](https://discord.com/users/733645557989376011 "discord" | height="35")
+</code>
 [![portfolio](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/chrome.png)](https://rahul-palamarthi.github.io/Web-Portfolio/ "portfolio")
 [![gmail](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/gmail.png)](mailto:rhulpalamarthi@gmail.com "gmail")
 [![github](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/github.svg)](https://github.com/Rahul-Palamarthi "github")
