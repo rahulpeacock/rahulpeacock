@@ -34,7 +34,7 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/markdown.svg" alt="markdown-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/matlab.svg" alt="matlab-img"/></span>&nbsp;&nbsp;
 
-# Tools 🔧
+# Tools 🧰
 
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/vscode.svg" alt="vscode-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/thunderclient.svg" alt="thunderclient-img"/></span>&nbsp;&nbsp;
