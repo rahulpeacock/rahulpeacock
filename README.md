@@ -54,10 +54,10 @@ Last Updated on 03/12/2022 08:15:13 UTC
 
 # Say Hi 👋
 
-[![discord](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/discord.svg)](https://discord.com/users/733645557989376011 "discord" | height="35")
-[![portfolio](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/chrome.png)](https://rahul-palamarthi.github.io/Web-Portfolio/ "portfolio")
-[![gmail](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/gmail.png)](mailto:rhulpalamarthi@gmail.com "gmail")
-[![github](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/github.svg)](https://github.com/Rahul-Palamarthi "github")
+[<img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/discord.svg" >](https://discord.com/users/733645557989376011 "discord")
+[<img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/chrome.svg" />](https://rahul-palamarthi.github.io/Web-Portfolio/ "portfolio")
+[![gmail](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/gmail.png | height="37")](mailto:rhulpalamarthi@gmail.com "gmail")
+[![github](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/github.svg | height="37")](https://github.com/Rahul-Palamarthi "github")
 
 <!-- snake section -->
 
