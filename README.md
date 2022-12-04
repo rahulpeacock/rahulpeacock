@@ -4,8 +4,7 @@
 
 ![intro-img](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/header.png)
 
-# About Me
-
+# About Me:
 Hi, I'm a student, learner, and self-taught developer. I wrote my first line of code at the end of **2k21** and the journey is wonderful. **Google** and **Youtube** are my best friends and once again Believe in Yourself 🔥 <br>
 
 ![discord-active-status](https://dcbadge.vercel.app/api/shield/733645557989376011)
@@ -20,8 +19,7 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 
 <!-- language section -->
 
-# Languages
-
+## Languages
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/html.svg" alt="html-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/css.svg" alt="css-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/sass.svg" alt="sass-img"/></span>&nbsp;&nbsp;
@@ -34,13 +32,15 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/markdown.svg" alt="markdown-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/matlab.svg" alt="matlab-img"/></span>&nbsp;&nbsp;
 
-# Tools 🧰
-
+## Tools:
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/vscode.svg" alt="vscode-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/thunderclient.svg" alt="thunderclient-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/git.svg" alt="git-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/github.svg" alt="github-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/figma.svg" alt="figma-img"/></span>&nbsp;&nbsp;
+
+<!-- stats -->
+## Stats:
 
 <!--START_SECTION:waka-->
 
@@ -55,25 +55,20 @@ JavaScript   2 mins          >------------------------   02.08 %
 
 <!--END_SECTION:waka-->
 
-<!-- stats -->
+<!-- pins section -->
+## Pins:
 
 <!-- snake section -->
-
-# Watch my Contribution Graph get eaten by the Snake 🐍
-
+## Watch my Contribution Graph get eaten by the Snake 🐍
 ![snake gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/output/github-contribution-grid-snake.svg)
 
 <!-- social section -->
-
-# Say Hi 👋
-
+## Say Hi:
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/discord.svg" alt="discord-img"/>](https://discord.com/users/733645557989376011 "discord")&nbsp;&nbsp;
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/chrome.svg" alt="chrome-img"/>](https://rahul-palamarthi.github.io/Web-Portfolio/ "portfolio")&nbsp;&nbsp;
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/gmail.svg" alt="gmail-img"/>](mailto:rhulpalamarthi@gmail.com "gmail")&nbsp;&nbsp;
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/github.svg" alt="github-img"/>](https://github.com/Rahul-Palamarthi "github")&nbsp;&nbsp;
 
 <!-- Moon section -->
-
-# Good Night Devs 🥱🥱
-
-![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=340 "current status of moon")
+## Good Night Devs:
+<img height="60" src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=340" alt="moon svg logo"/>
