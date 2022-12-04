@@ -34,11 +34,11 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 
 # Tools
 
-<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/vscode.png" alt="vscode-img" ></code>
-<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/thunderclient.png" alt="thunderclient-img" ></code>
-<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/figma.png" alt="figma-img" ></code>
-<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/git.png" alt="git-img" ></code>
-<code><img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/github.png" alt="github-img" ></code>
+<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/vscode.svg" />
+<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/thunderclient.svg" />
+<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/git.svg" />
+<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/github.svg" />
+<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/figma.svg" />
 
 <!--START_SECTION:waka-->
 
@@ -54,10 +54,10 @@ Last Updated on 03/12/2022 08:15:13 UTC
 
 # Say Hi 👋
 
-<code>[<img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/discord.svg" >](https://discord.com/users/733645557989376011 "discord")</code>
-[<img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/chrome.png" />](https://rahul-palamarthi.github.io/Web-Portfolio/ "portfolio")
-[<img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/gmail.png" />](mailto:rhulpalamarthi@gmail.com "gmail")
-[<img height="37" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/github.svg" />](https://github.com/Rahul-Palamarthi "github")
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/discord.svg" >](https://discord.com/users/733645557989376011 "discord")
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/chrome.png" />](https://rahul-palamarthi.github.io/Web-Portfolio/ "portfolio")
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/gmail.png" />](mailto:rhulpalamarthi@gmail.com "gmail")
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/github.svg" />](https://github.com/Rahul-Palamarthi "github")
 
 <!-- snake section -->
 
