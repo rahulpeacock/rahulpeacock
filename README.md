@@ -34,9 +34,15 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 
 # Tools
 
+<span>
 <img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/vscode.svg" />
+</span>
+<span>
 <img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/thunderclient.svg" />
+</span>
+<span>
 <img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/git.svg" />
+</span>
 <img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/github.svg" />
 <img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/figma.svg" />
 
