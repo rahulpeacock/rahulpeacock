@@ -43,19 +43,32 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/figma.svg" alt="figma-img"/></span>&nbsp;&nbsp;
 
 <!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤**
+**I'm an Early 🐤** 
 
 ```text
+🌞 Morning    45 commits     ██████████░░░░░░░░░░░░░░░   41.28% 
+🌆 Daytime    37 commits     ████████░░░░░░░░░░░░░░░░░   33.94% 
+🌃 Evening    26 commits     ██████░░░░░░░░░░░░░░░░░░░   23.85% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
 
 ```
 
-Last Updated on 03/12/2022 08:15:13 UTC
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 2 hrs 11 mins       ████████████████████████░   97.92% 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
+
+```
+
+
+ Last Updated on 04/12/2022 07:33:50 UTC
 <!--END_SECTION:waka-->
 
 <!-- snake section -->
