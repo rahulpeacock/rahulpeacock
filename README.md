@@ -34,11 +34,11 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 
 # Tools
 
-<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/vscode.svg" /></span>
-<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/thunderclient.svg" /></span>
-<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/git.svg" /></span>
-<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/github.svg" /></span>
-<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/figma.svg" /></span>
+<span padding-right="10"><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/vscode.svg" /></span>
+<span padding-right="10"><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/thunderclient.svg" /></span>
+<span padding-right="10"><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/git.svg" /></span>
+<span padding-right="10"><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/github.svg" /></span>
+<span padding-right="10"><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/figma.svg" /></span>
 
 <!--START_SECTION:waka-->
 
@@ -54,7 +54,7 @@ svg social section -->
 
 # Say Hi 👋
 
-[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/discord.svg" >](https://discord.com/users/733645557989376011 "discord")
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/discord.svg" >](https://discord.com/users/733645557989376011 "discord"){: padding-right:"10px"}
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/chrome.svg" />](https://rahul-palamarthi.github.io/Web-Portfolio/ "portfolio")
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/gmail.svg" />](mailto:rhulpalamarthi@gmail.com "gmail")
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/github.svg" />](https://github.com/Rahul-Palamarthi "github")
