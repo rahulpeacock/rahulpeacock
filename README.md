@@ -43,36 +43,16 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/figma.svg" alt="figma-img"/></span>&nbsp;&nbsp;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2012%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-140%20Thousand%20lines%20of%20code-blue)
-
-# Stats 📈
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Palamarthi&layout=compact&theme=transparent)
-
-**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    45 commits     ████████░░░░░░░░░░░░░░░░░   35.43% 
-🌆 Daytime    54 commits     ██████████░░░░░░░░░░░░░░░   42.52% 
-🌃 Evening    27 commits     █████░░░░░░░░░░░░░░░░░░░░   21.26% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
+From: 02 December 2022 - To: 03 December 2022
 
+Total Time: 2 hrs 14 mins
+
+Markdown     2 hrs 11 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.92 %
+JavaScript   2 mins          >------------------------   02.08 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 2 hrs 11 mins       ████████████████████████░   97.92% 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
-
-```
-
-
- Last Updated on 04/12/2022 16:25:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- stats -->
