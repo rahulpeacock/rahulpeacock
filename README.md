@@ -47,6 +47,10 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-140%20Thousand%20lines%20of%20code-blue)
 
+# Stats 📈
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Palamarthi&layout=compact&theme=transparent)
+
 **I'm an Early 🐤** 
 
 ```text
