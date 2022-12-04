@@ -59,13 +59,13 @@ jobs:
         COUNT_STATS_FROM_FORKS: ${{ secrets.COUNT_STATS_FROM_FORKS }}
 
     # Commits all changed files to the repository
-    - name: Commit to the output branch of repo
+    - name: Commit to the stats branch of repo
       run: |
         git config --global user.name "github-stats[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add .
         git commit -m 'temp commit' || echo
-        git checkout outputstat 2>/dev/null || git checkout --orphan outputstat && git rm -rf . && git checkout main -- generated/
+        git checkout stats 2>/dev/null || git checkout --orphan stats && git rm -rf . && git checkout main -- generated/
         # "echo" returns true so the build succeeds, even if no changed files
         git commit -m 'Update generated files' || echo
-        git push origin outputstat -f
+        git push origin stats -f
