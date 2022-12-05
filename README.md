@@ -60,7 +60,6 @@ Other        0 secs          -------------------------   00.02 %
 
 <!-- pins section -->
 ## Pins:
-
 **Hacktoberfest2k22**
 
 [![@rahul_palamarthi's Holopin board](https://holopin.me/rahul_palamarthi)](https://holopin.io/@rahul_palamarthi)
