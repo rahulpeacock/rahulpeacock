@@ -4,6 +4,7 @@
 
 ![intro-img](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/header.png)
 
+
 ## About Me💁
 Hi, I'm a student, learner, and self-taught developer. I wrote my first line of code at the end of **2k21** and the journey is wonderful. **Google** and **Youtube** are my best friends and once again Believe in Yourself 🔥 <br>
 
@@ -14,12 +15,12 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 -   👻 Ask Me about **CSS, JavaScript and React.js**
 -   :octocat: I’m looking to collaborate on **Opensource Projects**
 -   💙 Love and hate **CSS**
--   📮 How to reach me _[@Rahul-Palamarthi](#say-hi-)_
+-   📮 How to reach me _[@Rahul-Palamarthi](#find-me-across-the-web)_
 -   🔥 Believe in YourSelf
 -   ⚡ Fun fact: **Java** and **JavaScript** are unique in their ownway 😉
 
-<!-- language section -->
 
+<!-- language section -->
 ## Languages🔣
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/html.svg" alt="html-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/css.svg" alt="css-img"/></span>&nbsp;&nbsp;
@@ -33,12 +34,14 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/markdown.svg" alt="markdown-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/matlab.svg" alt="matlab-img"/></span>&nbsp;&nbsp;
 
+
 ## Tools🧰
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/vscode.svg" alt="vscode-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/thunderclient.svg" alt="thunderclient-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/git.svg" alt="git-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/github.svg" alt="github-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/figma.svg" alt="figma-img"/></span>&nbsp;&nbsp;
+
 
 <!-- stats section-->
 ## Stats📈
@@ -59,23 +62,23 @@ Other        0 secs          -------------------------   00.02 %
 
 <!--END_SECTION:waka-->
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Palamarthi&show_icons=true&theme=transparent&border_color=161b22&bg_color=161b22&title_color=5555ff&icon_color=be90f2&text_color=aaffff&count_private=true&card_width=500" alt="github-stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Palamarthi&layout=compact&theme=transparent&border_color=161b22&bg_color=161b22&title_color=5555ff&text_color=aaffff&count_private=true&card_width=450" alt="github-language-stats" />
 
+
 <!-- pins section -->
 ## Pins📍
+
 _**Hacktoberfest2k22**_
-
 [![@rahul_palamarthi's Holopin board](https://holopin.me/rahul_palamarthi)](https://holopin.io/@rahul_palamarthi)
-
-
-
 
 
 <!-- snake section -->
 ## Watch my Contribution Graph get eaten by the Snake 🐍
 ![snake gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- social section -->
 ## Find me across the web🌐
