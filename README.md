@@ -61,6 +61,14 @@ Other        0 secs          -------------------------   00.02 %
 <!-- pins section -->
 ## Pins:
 
+**Hacktoberfest2k22**
+
+[![@rahul_palamarthi's Holopin board](https://holopin.me/rahul_palamarthi)](https://holopin.io/@rahul_palamarthi)
+
+
+
+
+
 <!-- snake section -->
 ## Watch my Contribution Graph get eaten by the Snake 🐍
 ![snake gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/output/github-contribution-grid-snake.svg)
