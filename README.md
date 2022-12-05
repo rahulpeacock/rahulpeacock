@@ -42,7 +42,7 @@ _**Readme_languages.md**_<br />
 <span><img src="https://img.shields.io/badge/CSS3-004ce8.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Sass-CC6799.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="sass-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-ffdf00.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="js-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/React-00d8ff.svg?style=for-the-badge&logo=React&logoColor=black" alt="react-badge"/></span>&nbsp;&nbsp;
+<span><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/React%20Router-ec4545.svg?style=for-the-badge&logo=React-Router&logoColor=white" alt="react-router-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white" alt="nodemon-badge"/></span>&nbsp;&nbsp;
@@ -114,3 +114,5 @@ _**Hacktoberfest2k22**_
 <!-- Moon section -->
 ## Stop digging, you've hit the bottom⛏
 <img height="50" src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=340" alt="moon svg logo"/>
+
+![profile-view-counter](https://komarev.com/ghpvc/?username=Rahul-Palamarthi&style=for-the-badge&color=blueviolet)
