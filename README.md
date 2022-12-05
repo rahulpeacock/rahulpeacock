@@ -22,7 +22,7 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 
 <!-- language section -->
 ## Languages🔣
-_**seeme_languages.md**_<br />
+_**Seeme_languages.md**_<br />
 
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/html.svg" alt="html-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/css.svg" alt="css-img"/></span>&nbsp;&nbsp;
@@ -36,22 +36,23 @@ _**seeme_languages.md**_<br />
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/markdown.svg" alt="markdown-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/matlab.svg" alt="matlab-img"/></span>&nbsp;&nbsp;
 
-_**readme_languages.md**_<br />
+_**Readme_languages.md**_<br />
 
 <span><img src="https://img.shields.io/badge/HTML5-ff5722.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-004ce8.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Sass-CC6799.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="sass-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-ffdf00.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="js-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/React-00d8ff.svg?style=for-the-badge&logo=React&logoColor=black" alt="react-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" alt="react-router-badge"/></span>&nbsp;&nbsp;
+<span><img src="https://img.shields.io/badge/React%20Router-ec4545.svg?style=for-the-badge&logo=React-Router&logoColor=white" alt="react-router-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white" alt="nodemon-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="express-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-10aa50.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/npm-cc3534.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm-badge"/></span>&nbsp;&nbsp;
+<span><img src="https://img.shields.io/badge/npm-c33435.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="markdown-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white" alt="json-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white" alt="jsonwebtoken-badge"/></span>&nbsp;&nbsp;
+<span><img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white" alt="axios-badge" /></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" alt="dotenv-badge"/></span>&nbsp;&nbsp;
 
 
