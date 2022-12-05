@@ -58,6 +58,10 @@ Other        0 secs          -------------------------   00.02 %
 
 <!--END_SECTION:waka-->
 
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul-Palamarthi&show_icons=true&theme=transparent&border_color=161b22&bg_color=161b22&title_color=5555ff&icon_color=be90f2&text_color=aaffff&count_private=true&card_width=500" alt="github-stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Palamarthi&layout=compact&theme=transparent&border_color=161b22&bg_color=161b22&title_color=5555ff&text_color=aaffff&count_private=true&card_width=450" alt="github-language-stats" />
+
 <!-- pins section -->
 ## Pins:
 **Hacktoberfest2k22**
