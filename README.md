@@ -45,12 +45,15 @@ Hi, I'm a student, learner, and self-taught developer. I wrote my first line of 
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 03 December 2022
+From: 02 December 2022 - To: 04 December 2022
 
-Total Time: 2 hrs 14 mins
+Total Time: 5 hrs 12 mins
 
-Markdown     2 hrs 11 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.92 %
-JavaScript   2 mins          >------------------------   02.08 %
+Markdown     4 hrs 53 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.09 %
+XML          10 mins         >------------------------   03.36 %
+YAML         5 mins          -------------------------   01.64 %
+JavaScript   2 mins          -------------------------   00.90 %
+Other        0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
