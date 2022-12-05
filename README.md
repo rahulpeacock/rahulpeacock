@@ -67,6 +67,8 @@ Other        0 secs          -------------------------   00.02 %
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Palamarthi&layout=compact&theme=transparent&border_color=161b22&bg_color=161b22&title_color=5555ff&text_color=aaffff&count_private=true&card_width=450" alt="github-language-stats" />
 
+<img height="332" style="border-radius: 5px;" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d-contribution-img" />
+
 
 <!-- pins section -->
 ## Pins📍
@@ -76,7 +78,7 @@ _**Hacktoberfest2k22**_
 
 
 <!-- snake section -->
-## Watch my Contribution Graph get eaten by the Snake 🐍
+## Watch my Contribution Graph get eaten by the Snake🐍
 ![snake gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/output/github-contribution-grid-snake.svg)
 
 
