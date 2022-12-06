@@ -5,7 +5,7 @@
 ![intro-img](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/header.png)
 
 
-## About Me💁
+## About Me⛄
 Hi, I'm a student, learner, and self-taught developer. I wrote my first line of code at the end of **2k21** and the journey is wonderful. **Google** and **Youtube** are my best friends and once again Believe in Yourself 🔥 <br>
 
 <span>![discord-active-status](https://dcbadge.vercel.app/api/shield/733645557989376011)</span>&nbsp;&nbsp;
@@ -85,7 +85,6 @@ Other        0 secs          -------------------------   00.02 %
 
 <!--END_SECTION:waka-->
 
-
 <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Palamarthi&show_icons=true&theme=transparent&border_color=161b22&bg_color=161b22&title_color=5555ff&icon_color=be90f2&text_color=aaffff&card_width=500" alt="github-stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Palamarthi&layout=compact&theme=transparent&border_color=161b22&bg_color=161b22&title_color=5555ff&text_color=aaffff&card_width=450" alt="github-language-stats" />
@@ -96,7 +95,7 @@ Other        0 secs          -------------------------   00.02 %
 <!-- pins section -->
 ## Pins📍
 
-_**Hacktoberfest 2k22**_
+_**Hacktoberfest 2k22🎉**_
 [![@rahul_palamarthi's Holopin board](https://holopin.me/rahul_palamarthi)](https://holopin.io/@rahul_palamarthi)
 
 
