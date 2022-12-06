@@ -8,7 +8,8 @@
 ## About Me💁
 Hi, I'm a student, learner, and self-taught developer. I wrote my first line of code at the end of **2k21** and the journey is wonderful. **Google** and **Youtube** are my best friends and once again Believe in Yourself 🔥 <br>
 
-![discord-active-status](https://dcbadge.vercel.app/api/shield/733645557989376011)
+<span>![discord-active-status](https://dcbadge.vercel.app/api/shield/733645557989376011)</span>&nbsp;&nbsp;
+<span>![profile-view-counter](https://komarev.com/ghpvc/?username=Rahul-Palamarthi&style=for-the-badge&color=blueviolet)</span>
 
 -   ❄️ I’m currently working on **Something Cool!** 😜
 -   🌱 I’m currently learning **DSA using Java♨️**
@@ -95,7 +96,7 @@ Other        0 secs          -------------------------   00.02 %
 <!-- pins section -->
 ## Pins📍
 
-_**Hacktoberfest2k22**_
+_**Hacktoberfest 2k22**_
 [![@rahul_palamarthi's Holopin board](https://holopin.me/rahul_palamarthi)](https://holopin.io/@rahul_palamarthi)
 
 
@@ -111,8 +112,12 @@ _**Hacktoberfest2k22**_
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/gmail.svg" alt="gmail-img"/>](mailto:rhulpalamarthi@gmail.com "gmail")&nbsp;&nbsp;
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/github.svg" alt="github-img"/>](https://github.com/Rahul-Palamarthi "github")&nbsp;&nbsp;
 
-<!-- Moon section -->
-## Stop digging, you've hit the bottom⛏
-<img height="50" src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=340" alt="moon svg logo"/>
 
-![profile-view-counter](https://komarev.com/ghpvc/?username=Rahul-Palamarthi&style=for-the-badge&color=blueviolet)
+<!-- bottom section -->
+## Stop digging, you've hit the bottom⛏
+<img src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/dino.gif" alt="dino-gif" />
+
+
+<!-- Moon section -->
+## Good night Devs🥱
+<img height="45" src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=340" alt="moon svg logo"/>
