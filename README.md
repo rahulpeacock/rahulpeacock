@@ -6,7 +6,7 @@
 
 
 ## About Me⛄
-Hi, I'm a student, learner, and self-taught developer. I wrote my first line of code at the end of **2k21** and the journey is wonderful. **Google** and **Youtube** are my best friends and once again Believe in Yourself 🔥 <br>
+Hi, I'm a student | learner | self-taught programmer & MERN stack developer. I wrote my first line of code at the end of **2k21** and the journey is wonderful. **Google** and **Youtube** are my best friends and once again Believe in Yourself 🔥 <br>
 
 <span>![discord-active-status](https://dcbadge.vercel.app/api/shield/733645557989376011)</span>&nbsp;&nbsp;
 <span>![profile-view-counter](https://komarev.com/ghpvc/?username=Rahul-Palamarthi&style=for-the-badge&color=blueviolet)</span>
@@ -108,7 +108,7 @@ _**Hacktoberfest 2k22🎉**_
 ## Find me across the web🌐
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/discord.svg" alt="discord-img"/>](https://discord.com/users/733645557989376011 "discord")&nbsp;&nbsp;
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/chrome.svg" alt="chrome-img"/>](https://rahul-palamarthi.github.io/Web-Portfolio/ "portfolio")&nbsp;&nbsp;
-[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/gmail.svg" alt="gmail-img"/>](mailto:rhulpalamarthi@gmail.com "gmail")&nbsp;&nbsp;
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/gmail.svg" alt="gmail-img"/>](mailto:rahulpalamarthi@gmail.com "gmail")&nbsp;&nbsp;
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/github.svg" alt="github-img"/>](https://github.com/Rahul-Palamarthi "github")&nbsp;&nbsp;
 
 
