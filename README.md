@@ -72,7 +72,7 @@ _**Readme_languages.md**_<br />
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 31 December 2022
+From: 02 December 2022 - To: 02 January 2023
 
 Total Time: 35 hrs 8 mins
 
