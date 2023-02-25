@@ -8,7 +8,7 @@
 ## About Me⛄
 Hi, I'm a student | learner | self-taught programmer & MERN stack developer. I wrote my first line of code at the end of **2k21** and the journey is wonderful. **Google** and **Youtube** are my best friends and once again Believe in Yourself 🔥 <br>
 
-<span>![discord-active-status](https://dcbadge.vercel.app/api/shield/733645557989376011)</span>&nbsp;&nbsp;
+<!-- <span>![discord-active-status](https://dcbadge.vercel.app/api/shield/733645557989376011)</span>&nbsp;&nbsp; -->
 <span>![profile-view-counter](https://komarev.com/ghpvc/?username=Rahul-Palamarthi&style=for-the-badge&color=blueviolet)</span>
 
 -   ❄️ I’m currently working on **Something Cool!** 😜
@@ -114,8 +114,8 @@ _**Hacktoberfest 2k22🎉**_
 
 
 <!-- bottom section -->
-## Stop digging, you've hit the bottom⛏
-<img src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/dino.gif" alt="dino-gif" />
+<!-- ## Stop digging, you've hit the bottom⛏ -->
+<!-- <img src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/dino.gif" alt="dino-gif" /> -->
 
 
 <!-- Moon section -->
