@@ -72,16 +72,16 @@ _**Readme_languages.md**_<br />
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 08 March 2023
+From: 02 December 2022 - To: 09 March 2023
 
-Total Time: 85 hrs 31 mins
+Total Time: 90 hrs 16 mins
 
-CSS           29 hrs 23 mins  >>>>>>>>>----------------   34.34 %
-JavaScript    27 hrs 38 mins  >>>>>>>>-----------------   32.29 %
-Java          11 hrs 51 mins  >>>----------------------   13.85 %
-Markdown      6 hrs 11 mins   >>-----------------------   07.23 %
-JSON          5 hrs 2 mins    >------------------------   05.90 %
-TypeScript    1 hr 55 mins    >------------------------   02.25 %
+JavaScript    30 hrs 53 mins  >>>>>>>>>----------------   34.20 %
+CSS           30 hrs 47 mins  >>>>>>>>>----------------   34.10 %
+Java          11 hrs 51 mins  >>>----------------------   13.12 %
+Markdown      6 hrs 11 mins   >>-----------------------   06.85 %
+JSON          5 hrs 4 mins    >------------------------   05.62 %
+TypeScript    1 hr 56 mins    >------------------------   02.14 %
 ```
 
 <!--END_SECTION:waka-->
