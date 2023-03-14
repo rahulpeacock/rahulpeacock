@@ -6,19 +6,17 @@
 
 
 ## About Me⛄
-Hi, I'm a student | learner | self-taught programmer & MERN stack developer. I wrote my first line of code at the end of **2k21** and the journey is wonderful. **Google** and **Youtube** are my best friends and once again Believe in Yourself 🔥 <br>
+Hey there! I'm a student | learner | self-taught programmer | MERN stack developer. I wrote my first line of code at the end of **2k21** and the journey has been nothing short of wonderful. _**Google**_ and _**Youtube**_ are my best friends <br>
 
 <!-- <span>![discord-active-status](https://dcbadge.vercel.app/api/shield/733645557989376011)</span>&nbsp;&nbsp; -->
 <span>![profile-view-counter](https://komarev.com/ghpvc/?username=Rahul-Palamarthi&style=for-the-badge&color=blueviolet)</span>
 
 -   ❄️ I’m currently working on **Something Cool!** 😜
--   🌱 I’m currently learning **DSA using Java♨️**
+-   🌱 I’m currently learning **Java♨️**
 -   👻 Ask Me about **CSS, JavaScript and React.js**
 -   :octocat: I’m looking to collaborate on **Opensource Projects**
--   💙 Love and hate **CSS**
--   📮 How to reach me _[@Rahul-Palamarthi](#find-me-across-the-web)_
--   🔥 Believe in YourSelf
--   ⚡ Fun fact: **Java** and **JavaScript** are unique in their ownway 😉
+-   📮 Want to reach me _[@Rahul-Palamarthi](#find-me-across-the-web)_
+-   ⚡ Fun fact: My code is so efficient, it makes NASA's space shuttles look slow 😉
 
 
 <!-- language section -->
@@ -65,6 +63,21 @@ _**Readme_languages.md**_<br />
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/github.svg" alt="github-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/tools/figma.svg" alt="figma-img"/></span>&nbsp;&nbsp;
 
+<!-- social section -->
+## Find me across the web🌐
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/discord.svg" alt="discord-img"/>](https://discord.com/users/733645557989376011 "discord")&nbsp;&nbsp;
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/chrome.svg" alt="chrome-img"/>](https://rahul-palamarthi.github.io/Web-Portfolio/ "portfolio")&nbsp;&nbsp;
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/gmail.svg" alt="gmail-img"/>](mailto:rahulpalamarthi@gmail.com "gmail")&nbsp;&nbsp;
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/github.svg" alt="github-img"/>](https://github.com/Rahul-Palamarthi "github")&nbsp;&nbsp;
+
+<!-- achievements section -->
+## Achievements📍
+
+_**Hacktoberfest 2k22🎉**_
+[![@rahul_palamarthi's Holopin board](https://holopin.me/rahul_palamarthi)](https://holopin.io/@rahul_palamarthi)
+
+_**My Open Source Contribution**🐍_
+![snake gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/output/github-contribution-grid-snake.svg)
 
 <!-- stats section-->
 ## Stats📈
@@ -92,32 +105,11 @@ TypeScript    1 hr 56 mins    -------------------------   01.90 %
 
 <img width="500" style="border-radius: 5px;" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d-contribution-img" />
 
-
-<!-- pins section -->
-## Pins📍
-
-_**Hacktoberfest 2k22🎉**_
-[![@rahul_palamarthi's Holopin board](https://holopin.me/rahul_palamarthi)](https://holopin.io/@rahul_palamarthi)
-
-
-<!-- snake section -->
-## Watch my Contribution Graph get eaten by the Snake🐍
-![snake gif](https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/output/github-contribution-grid-snake.svg)
-
-
-<!-- social section -->
-## Find me across the web🌐
-[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/discord.svg" alt="discord-img"/>](https://discord.com/users/733645557989376011 "discord")&nbsp;&nbsp;
-[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/chrome.svg" alt="chrome-img"/>](https://rahul-palamarthi.github.io/Web-Portfolio/ "portfolio")&nbsp;&nbsp;
-[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/gmail.svg" alt="gmail-img"/>](mailto:rahulpalamarthi@gmail.com "gmail")&nbsp;&nbsp;
-[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/github.svg" alt="github-img"/>](https://github.com/Rahul-Palamarthi "github")&nbsp;&nbsp;
-
-
 <!-- bottom section -->
 <!-- ## Stop digging, you've hit the bottom⛏ -->
 <!-- <img src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/dino.gif" alt="dino-gif" /> -->
 
 
 <!-- Moon section -->
-## Good night Devs🥱
+## Good Night Devs🥱
 <img height="45" src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=340" alt="moon svg logo"/>
