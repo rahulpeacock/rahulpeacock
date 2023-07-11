@@ -6,23 +6,21 @@
 
 
 ## About Me⛄
-Hey there! I'm a student | learner | self-taught programmer | MERN stack developer. I wrote my first line of code at the end of **2k21** and the journey has been nothing short of wonderful. _**Google**_ and _**Youtube**_ are my best friends <br>
+Hey! I'm a student | learner | self-taught programmer | T3 stack developer | MERN stack developer. I wrote my first line of code at the end of **2k21** and the journey has been nothing short of wonderful. _**Google**_ and _**Youtube**_ are my best friends <br>
 
 <!-- <span>![discord-active-status](https://dcbadge.vercel.app/api/shield/733645557989376011)</span>&nbsp;&nbsp; -->
 <span>![profile-view-counter](https://komarev.com/ghpvc/?username=Rahul-Palamarthi&style=for-the-badge&color=blueviolet)</span>
 
 -   ❄️ I’m currently working on **Something Cool!** 😜
--   🌱 I’m currently learning **Java♨️**
--   👻 Ask Me about **CSS, JavaScript and React.js**
+-   🌱 I’m currently learning _**T3 Stack**_
+-   👻 Ask Me about **JavaScript, React.js and Next.js**
 -   :octocat: I’m looking to collaborate on **Opensource Projects**
 -   📮 Want to reach me _[@Rahul-Palamarthi](#find-me-across-the-web)_
 -   ⚡ Fun fact: My code is so efficient, it makes NASA's space shuttles look slow 😉
 
 
 <!-- language section -->
-## Languages🔣
-_**Seeme_languages.md**_<br />
-
+## Skills🔥
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/html.svg" alt="html-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/css.svg" alt="css-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/sass.svg" alt="sass-img"/></span>&nbsp;&nbsp;
@@ -33,8 +31,7 @@ _**Seeme_languages.md**_<br />
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/mongodb.svg" alt="mongodb-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/npm.svg" alt="npm-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/markdown.svg" alt="markdown-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/matlab.svg" alt="matlab-img"/></span>&nbsp;&nbsp;
-
+<!--
 _**Readme_languages.md**_<br />
 
 <span><img src="https://img.shields.io/badge/HTML5-ff5722.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html-badge"/></span>&nbsp;&nbsp;
@@ -53,7 +50,7 @@ _**Readme_languages.md**_<br />
 <span><img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white" alt="jsonwebtoken-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white" alt="axios-badge" /></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" alt="dotenv-badge"/></span>&nbsp;&nbsp;
-
+-->
 
 <!-- tools section -->
 ## Tools🧰
