@@ -67,6 +67,8 @@ Hey! I'm a student | learner | self-taught programmer | T3 stack developer | MER
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/chrome.svg" alt="chrome-img"/>](https://rahul-palamarthi.github.io/Web-Portfolio/ "portfolio")&nbsp;&nbsp;
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/gmail.svg" alt="gmail-img"/>](mailto:rahulpalamarthi@gmail.com "gmail")&nbsp;&nbsp;
 [<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/github.svg" alt="github-img"/>](https://github.com/Rahul-Palamarthi "github")&nbsp;&nbsp;
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/linkedin.svg" alt="linkedin-img"/>](https://www.linkedin.com/in/rahul-palamarthi/ "linkedin")&nbsp;&nbsp;
+[<img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/social/twitter.svg" alt="twitter-img"/>](https://twitter.com/rahul__48 "twitter")&nbsp;&nbsp;
 
 <!-- achievements section -->
 ## Achievements📍
