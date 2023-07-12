@@ -24,17 +24,19 @@ Hey! I'm a student | learner | self-taught programmer | T3 stack developer | MER
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/html.svg" alt="html-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/css.svg" alt="css-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/sass.svg" alt="sass-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/tailwind.svg" alt="tailwind-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/js.svg" alt="js-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/ts.svg" alt="ts-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/react.svg" alt="react-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/next.svg" alt="next-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/node.svg" alt="node-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/express.svg" alt="express-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/mongodb.svg" alt="mongodb-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/npm.svg" alt="npm-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/express.svg" alt="express-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/markdown.svg" alt="markdown-img"/></span>&nbsp;&nbsp;
-<!--
-_**Readme_languages.md**_<br />
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/mongodb.svg" alt="mongodb-img"/></span>&nbsp;&nbsp;
+<span><img height="40" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/assets/languages/drizzle.svg" alt="drizzle-img"/></span>&nbsp;&nbsp;
 
-<span><img src="https://img.shields.io/badge/HTML5-ff5722.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html-badge"/></span>&nbsp;&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/HTML5-ff5722.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-004ce8.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Sass-CC6799.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="sass-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-ffdf00.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="js-badge"/></span>&nbsp;&nbsp;
@@ -49,8 +51,7 @@ _**Readme_languages.md**_<br />
 <span><img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white" alt="json-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white" alt="jsonwebtoken-badge"/></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white" alt="axios-badge" /></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" alt="dotenv-badge"/></span>&nbsp;&nbsp;
--->
+<span><img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" alt="dotenv-badge"/></span>&nbsp;&nbsp; -->
 
 <!-- tools section -->
 ## Tools🧰
