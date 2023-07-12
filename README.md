@@ -6,7 +6,7 @@
 
 
 ## About Me⛄
-Hey! I'm a student | learner | self-taught programmer | T3 stack developer | MERN stack developer. I wrote my first line of code at the end of **2k21** and the journey has been nothing short of wonderful. _**Google**_ and _**Youtube**_ are my best friends <br>
+Hey! I'm a student | learner | self-taught programmer | T3 stack | MERN stack developer. I wrote my first line of code at the end of **2k21** and the journey has been nothing short of wonderful. _**Google**_ and _**Youtube**_ are my best friends <br>
 
 <!-- <span>![discord-active-status](https://dcbadge.vercel.app/api/shield/733645557989376011)</span>&nbsp;&nbsp; -->
 <span>![profile-view-counter](https://komarev.com/ghpvc/?username=Rahul-Palamarthi&style=for-the-badge&color=blueviolet)</span>
