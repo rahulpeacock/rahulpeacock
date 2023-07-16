@@ -85,7 +85,7 @@ _**My Open Source Contribution**🐍_
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2022 - To: 13 July 2023
+From: 02 December 2022 - To: 14 July 2023
 
 Total Time: 505 hrs 9 mins
 
