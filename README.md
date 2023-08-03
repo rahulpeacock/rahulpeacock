@@ -85,15 +85,15 @@ _**My Open Source Contribution**🐍_
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2022 - To: 31 July 2023
+From: 02 December 2022 - To: 01 August 2023
 
-Total Time: 527 hrs 12 mins
+Total Time: 532 hrs 26 mins
 
-JavaScript    292 hrs 37 mins >>>>>>>>>>>>>>-----------   55.29 %
-TypeScript    113 hrs 53 mins >>>>>--------------------   21.52 %
-CSS           42 hrs 22 mins  >>-----------------------   08.01 %
-SCSS          21 hrs 44 mins  >------------------------   04.11 %
-JSON          14 hrs 22 mins  >------------------------   02.72 %
+JavaScript    292 hrs 37 mins >>>>>>>>>>>>>>-----------   54.75 %
+TypeScript    118 hrs 17 mins >>>>>>-------------------   22.13 %
+CSS           42 hrs 22 mins  >>-----------------------   07.93 %
+SCSS          21 hrs 44 mins  >------------------------   04.07 %
+JSON          15 hrs 12 mins  >------------------------   02.85 %
 ```
 
 <!--END_SECTION:waka-->
