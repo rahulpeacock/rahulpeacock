@@ -98,9 +98,9 @@ JSON             30 hrs 39 mins  >------------------------   03.35 %
 
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul-Palamarthi&show_icons=true&theme=transparent&border_color=161b22&bg_color=161b22&title_color=5555ff&icon_color=be90f2&text_color=aaffff&card_width=500" alt="github-stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rahu1gg&show_icons=true&theme=transparent&border_color=161b22&bg_color=161b22&title_color=5555ff&icon_color=be90f2&text_color=aaffff&card_width=500" alt="github-stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Palamarthi&layout=compact&theme=transparent&border_color=161b22&bg_color=161b22&title_color=5555ff&text_color=aaffff&card_width=450" alt="github-language-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahu1gg&layout=compact&theme=transparent&border_color=161b22&bg_color=161b22&title_color=5555ff&text_color=aaffff&card_width=450" alt="github-language-stats" />
 
 <img width="500" style="border-radius: 5px;" src="https://github.com/Rahul-Palamarthi/Rahul-Palamarthi/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d-contribution-img" />
 
