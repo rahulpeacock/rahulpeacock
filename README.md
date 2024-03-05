@@ -10,11 +10,11 @@ Hi there! My self Rahul Palamarthi and I’m a passionate student, self-taught d
 
 <!-- language section -->
 ## Skills🔥
-**Languages:** ```TypeScript```, ```JavaScript```, ```Python```, ```Java``` <br/>
-**Frontend:** React.js, React redux, Zustand, Shadcn UI, Tailwindcss, SASS, CSS, HTML <br/>
-**Backend:** Next.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Drizzle ORM, tRPC, Socket.io
+**Languages:**<br/>```TypeScript``` ```JavaScript``` ```Python``` ```Java``` <br/>
+**Frontend:**<br/>```React.js``` ```React redux``` ```Zustand``` ```Shadcn UI``` ```Tailwindcss``` ```SASS``` ```CSS``` ```HTML``` <br/>
+**Backend:**<br/>```Next.js``` ```Node.js``` ```Express.js``` ```MongoDB``` ```MySQL``` ```PostgreSQL``` ```Drizzle ORM``` ```tRPC``` ```Socket.io```
 
-<!-- tools section -->.
+<!-- tools section -->
 ## Tools🧰
 <span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/tools/vscode.svg" alt="vscode-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/tools/thunderclient.svg" alt="thunderclient-img"/></span>&nbsp;&nbsp;
