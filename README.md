@@ -11,11 +11,8 @@ Hi there! My self Rahul Palamarthi and I’m a passionate student, self-taught d
 <!-- language section -->
 ## Skills🔥
 **Languages:**<br/>```TypeScript``` ```JavaScript``` ```Python``` ```Java``` <br/>
-<br/>
 **Frontend:**<br/>```React.js``` ```React redux``` ```Zustand``` ```Shadcn UI``` ```Tailwindcss``` ```SASS``` ```CSS``` ```HTML``` <br/>
-<br/>
 **Backend:**<br/>```Next.js``` ```Node.js``` ```Express.js``` ```MongoDB``` ```MySQL``` ```PostgreSQL``` ```Drizzle ORM``` ```tRPC``` ```Socket.io``` <br/>
-<br/>
 **Tools:**<br/> ```Git``` ```GitHub``` ```VS-Code``` ```Figma``` ```Thunder Client```
 
 <!-- social section -->
@@ -25,18 +22,13 @@ Hi there! My self Rahul Palamarthi and I’m a passionate student, self-taught d
 [<img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/social/linkedin.svg" alt="linkedin-img"/>](https://www.linkedin.com/in/rahul-palamarthi/ "linkedin")&nbsp;&nbsp;
 [<img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/social/twitter.svg" alt="twitter-img"/>](https://twitter.com/rahul__48 "twitter")&nbsp;&nbsp;
 
-<!-- achievements section -->
-## Achievements📍
+<!-- stats section-->
+## Achievements and Stats📈
 
 _**Hacktoberfest 2k22, 2k23🎉**_
 [![@rahul_palamarthi's Holopin board](https://holopin.me/rahul_palamarthi)](https://holopin.io/@rahul_palamarthi)
 
-_**My Open Source Contribution**🐍_
-![snake gif](https://github.com/rahu1gg/rahu1gg/blob/output/github-snake-dark.svg)
-
-<!-- stats section-->
-## Stats📈
-
+_**Time Lapse🎊**_
 <!--START_SECTION:waka-->
 
 ```txt
@@ -53,17 +45,3 @@ SCSS             41 hrs 44 mins  >------------------------   03.29 %
 
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahu1gg&show_icons=true&theme=transparent&border_color=161b22&bg_color=161b22&title_color=5555ff&icon_color=be90f2&text_color=aaffff&card_width=500" alt="github-stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahu1gg&layout=compact&theme=transparent&border_color=161b22&bg_color=161b22&title_color=5555ff&text_color=aaffff&card_width=450" alt="github-language-stats" />
-
-<img width="500" style="border-radius: 5px;" src="https://github.com/rahu1gg/rahu1gg/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d-contribution-img" />
-
-<!-- bottom section -->
-<!-- ## Stop digging, you've hit the bottom⛏ -->
-<!-- <img src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/dino.gif" alt="dino-gif" /> -->
-
-
-<!-- Moon section -->
-## Good Night Devs🥱
-<img height="45" src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=340" alt="moon svg logo"/>
