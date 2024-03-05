@@ -16,9 +16,7 @@ Hi there! My self Rahul Palamarthi and I’m a passionate student, self-taught d
 **Tools:**<br/> ```Git``` ```GitHub``` ```VS-Code``` ```Figma``` ```Thunder Client```
 
 <!-- social section -->
-## Find me across the web🌐
-[<img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/social/discord.svg" alt="discord-img"/>](https://discord.com/users/733645557989376011 "discord")&nbsp;&nbsp;
-[<img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/social/github.svg" alt="github-img"/>](https://github.com/rahu1gg "github")&nbsp;&nbsp;
+## Social 🌐
 [<img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/social/linkedin.svg" alt="linkedin-img"/>](https://www.linkedin.com/in/rahul-palamarthi/ "linkedin")&nbsp;&nbsp;
 [<img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/social/twitter.svg" alt="twitter-img"/>](https://twitter.com/rahul__48 "twitter")&nbsp;&nbsp;
 
