@@ -10,39 +10,11 @@ Hi there! My self Rahul Palamarthi and I’m a passionate student, self-taught d
 
 <!-- language section -->
 ## Skills🔥
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/languages/html.svg" alt="html-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/languages/css.svg" alt="css-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/languages/sass.svg" alt="sass-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/languages/tailwind.svg" alt="tailwind-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/languages/js.svg" alt="js-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/languages/ts.svg" alt="ts-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/languages/react.svg" alt="react-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/languages/next.svg" alt="next-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/languages/node.svg" alt="node-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/languages/npm.svg" alt="npm-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/languages/express.svg" alt="express-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/languages/markdown.svg" alt="markdown-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/languages/mongodb.svg" alt="mongodb-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/languages/drizzle.svg" alt="drizzle-img"/></span>&nbsp;&nbsp;
+**Languages:** ```TypeScript```, ```JavaScript```, ```Python```, ```Java``` <br/>
+**Frontend:** React.js, React redux, Zustand, Shadcn UI, Tailwindcss, SASS, CSS, HTML <br/>
+**Backend:** Next.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Drizzle ORM, tRPC, Socket.io
 
-<!-- <span><img src="https://img.shields.io/badge/HTML5-ff5722.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-004ce8.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-CC6799.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="sass-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-ffdf00.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="js-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/React%20Router-ec4545.svg?style=for-the-badge&logo=React-Router&logoColor=white" alt="react-router-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white" alt="nodemon-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="express-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-10aa50.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/npm-c33435.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="markdown-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white" alt="json-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white" alt="jsonwebtoken-badge"/></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white" alt="axios-badge" /></span>&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" alt="dotenv-badge"/></span>&nbsp;&nbsp; -->
-
-<!-- tools section -->
+<!-- tools section -->.
 ## Tools🧰
 <span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/tools/vscode.svg" alt="vscode-img"/></span>&nbsp;&nbsp;
 <span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/tools/thunderclient.svg" alt="thunderclient-img"/></span>&nbsp;&nbsp;
