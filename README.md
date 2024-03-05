@@ -2,22 +2,11 @@
 
 ![animated-gif](https://github.com/rahu1gg/rahu1gg/blob/main/assets/coding-animation.gif)
 
-![intro-img](https://github.com/rahu1gg/rahu1gg/blob/main/assets/header.png)
-
-
 ## About Me⛄
-Hey! I'm a student | learner | self-taught programmer | T3 stack | MERN stack developer. I wrote my first line of code at the end of **2k21** and the journey has been nothing short of wonderful. _**Google**_ and _**Youtube**_ are my best friends <br>
+Hi there! My self Rahul Palamarthi and I’m a passionate student, self-taught developer and Open source contributor. I embarked on my coding journey at the end of 2021, and it has been an exhilarating experience ever since. My best companions in this coding odyssey are Google and YouTube, guiding me through the intricacies of the programming world.
 
-<!-- <span>![discord-active-status](https://dcbadge.vercel.app/api/shield/733645557989376011)</span>&nbsp;&nbsp; -->
-<span>![profile-view-counter](https://komarev.com/ghpvc/?username=rahu1gg&style=for-the-badge&color=blueviolet)</span>
-
--   ❄️ I’m currently working on **Something Cool!** 😜
--   🌱 I’m currently learning _**T3 Stack**_
--   👻 Ask Me about **JavaScript, Node.js, React.js and Next.js**
--   :octocat: I’m looking to collaborate on **Opensource Projects**
--   📮 Want to reach me _[@Rahu1gg](#find-me-across-the-web)_
--   ⚡ Fun fact: My code is so efficient, it makes NASA's space shuttles look slow 😉
-
+-   👻 Ask Me about **Next.js, React.js, JavaScript, Node.js**
+-   🌱 Currently sharpening my skill in **T3, MERN** Stack
 
 <!-- language section -->
 ## Skills🔥
