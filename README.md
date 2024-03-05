@@ -11,16 +11,12 @@ Hi there! My self Rahul Palamarthi and I’m a passionate student, self-taught d
 <!-- language section -->
 ## Skills🔥
 **Languages:**<br/>```TypeScript``` ```JavaScript``` ```Python``` ```Java``` <br/>
+<br/>
 **Frontend:**<br/>```React.js``` ```React redux``` ```Zustand``` ```Shadcn UI``` ```Tailwindcss``` ```SASS``` ```CSS``` ```HTML``` <br/>
-**Backend:**<br/>```Next.js``` ```Node.js``` ```Express.js``` ```MongoDB``` ```MySQL``` ```PostgreSQL``` ```Drizzle ORM``` ```tRPC``` ```Socket.io```
-
-<!-- tools section -->
-## Tools🧰
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/tools/vscode.svg" alt="vscode-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/tools/thunderclient.svg" alt="thunderclient-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/tools/git.svg" alt="git-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/tools/github.svg" alt="github-img"/></span>&nbsp;&nbsp;
-<span><img height="40" src="https://github.com/rahu1gg/rahu1gg/blob/main/assets/tools/figma.svg" alt="figma-img"/></span>&nbsp;&nbsp;
+<br/>
+**Backend:**<br/>```Next.js``` ```Node.js``` ```Express.js``` ```MongoDB``` ```MySQL``` ```PostgreSQL``` ```Drizzle ORM``` ```tRPC``` ```Socket.io``` <br/>
+<br/>
+**Tools:**<br/> ```Git``` ```GitHub``` ```VS-Code``` ```Figma``` ```Thunder Client```
 
 <!-- social section -->
 ## Find me across the web🌐
