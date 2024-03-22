@@ -5,7 +5,7 @@
 ## About Me⛄
 Hi there! My self Rahul Palamarthi and I’m a passionate student, self-taught developer and Open source contributor. I embarked on my coding journey at the end of 2021, and it has been an exhilarating experience ever since. My best companions in this coding odyssey are Google and YouTube, guiding me through the intricacies of the programming world.
 
--   👻 Ask Me about **Next.js, React.js, JavaScript, Node.js**
+-   👻 Ask Me about **Next.js, React.js, Typescript, Node.js**
 -   🌱 Currently sharpening my skill in **T3, MERN** Stack
 
 <!-- language section -->
